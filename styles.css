@@ -1,0 +1,13 @@
+#main {
+    width: 300px;
+    margin: auto;
+    border: 4px solid #4CAF50;
+    padding: 10px;
+}
+#quote {
+  margin: 10px auto;
+}
+
+button {
+  margin: 10px auto;
+}
